@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Scrollbar Style */
+::-webkit-scrollbar {
+    width: 8px; /* Adjust scrollbar width */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #10B981; /* Emerald color */
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #047857; /* Darker emerald on hover */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: rgba(0, 0, 0, 0.1); /* Optional background for track */
+  }
+  
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+  
