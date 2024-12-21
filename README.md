@@ -1,9 +1,8 @@
-Here's a `README.md` for your TalkBox project:
-
-```markdown
 # TalkBox - AI Chat Application
 
 TalkBox is an AI-powered chat application that leverages OpenAI's GPT-4 to provide interactive and responsive conversations. The app is built using React and Zustand for state management, creating a seamless and dynamic user experience.
+
+![](/ss.png)
 
 ## Features
 - **Interactive chat interface:** Communicate with the AI using a clean and responsive UI.
